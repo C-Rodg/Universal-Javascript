@@ -1,0 +1,24 @@
+{
+  "name": "universal-javascript",
+  "version": "1.0.0",
+  "description": "A universal javascript application using React and Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C-Rodg/Universal-Javascript.git"
+  },
+  "keywords": [
+    "Express",
+    "React",
+    "Nodejs"
+  ],
+  "author": "Curtis Rodgers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/C-Rodg/Universal-Javascript/issues"
+  },
+  "homepage": "https://github.com/C-Rodg/Universal-Javascript#readme"
+}
