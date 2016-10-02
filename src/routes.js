@@ -11,7 +11,6 @@ const routes = (
 		<Route path="athlete/:id" component={AthletePage}/>
 		<Route path="*" component={NotFoundPage} />
 	</Route>
-	);
 );
 
 export default routes;

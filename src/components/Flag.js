@@ -7,7 +7,7 @@ const data = {
 	},
 	'fr' : {
 		'name' : 'France',
-		'icon' : 'flag-jp.png'
+		'icon' : 'flag-fr.png'
 	},
 	'jp' : {
 		'name' : 'Japan',
